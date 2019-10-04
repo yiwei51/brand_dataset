@@ -33,8 +33,8 @@ Followers posts are store in:
   
   e.g,
   
-  shortcode: Bgx0MNMhigO
+  shortcode: B3LoSw8pPgV
   
-  link to image: https://www.instagram.com/p/Bgx0MNMhigO/
+  link to image: https://www.instagram.com/p/B3LoSw8pPgV/
   
   tags are split by ',' tags are encoded by utf-8
