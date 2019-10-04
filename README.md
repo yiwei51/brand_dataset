@@ -19,11 +19,12 @@ Brand information are store in:
 
 
 
-Followers information are store in:
+Followers posts are store in:
   - user_credircard.csv
   - user_pointcard.csv
   - user_popular.csv
-  (link to download:)
+  
+  (link to download followers posts:)
 
   format:
   brand_name, user_name, shortcode, tags
