@@ -1,7 +1,7 @@
 # brand_dataset
 
 Dataset Description
-
+================================================================================
 Brand information are store in:
   - brand_credircard.csv
   - brand_pointcard.csv
@@ -18,13 +18,13 @@ Brand information are store in:
   link to brand: https://www.instagram.com/3coins_official/
 
 
-
+================================================================================
 Followers posts are store in:
   - user_credircard.csv
   - user_pointcard.csv
   - user_popular.csv
   
-  (link to download followers posts:)
+  link to download followers posts():
 
   format:
   brand_name, user_name, shortcode, tags
