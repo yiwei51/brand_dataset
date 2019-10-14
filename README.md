@@ -41,7 +41,7 @@ Followers posts are store in:
   
   
 ## Citation
-If you used the dataset, please cite our paper.
+Please cite our paper if you use this dataset.
 
 
 Yiwei Zhang, Xueting Wang, Yoshiaki Sakai, and Toshihiko Yamasaki. Measuring Similarity between Brands using Followers' Post in Social Media. In Proceedings of the ACM International Conference on Multimedia Asia (MMAsia'19). December 15--18, 2019, Beijing, China
