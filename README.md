@@ -1,7 +1,6 @@
 # brand_dataset
 
-Dataset Description
-================================================================================
+
 ## Brand
 Brand information are store in:
   - brand_credircard.csv
@@ -19,7 +18,6 @@ Brand information are store in:
   link to brand: https://www.instagram.com/3coins_official/
 
 
-================================================================================
 ## Followers
 Followers posts are store in:
   - user_credircard.csv
@@ -45,5 +43,5 @@ Followers posts are store in:
 ## Citation
 If you used the dataset, please cite our paper.
 ```
-1. Yiwei Zhang, Xueting Wang, Yoshiaki Sakai, and Toshihiko Yamasaki. 2019. Measuring Similarity between Brands using Followers' Post in Social Media. In Proceedings of the ACM International Conference on Multimedia Asia (MMAsia'19). December 15--18, 2019, Beijing, China
+Yiwei Zhang, Xueting Wang, Yoshiaki Sakai, and Toshihiko Yamasaki. Measuring Similarity between Brands using Followers' Post in Social Media. In Proceedings of the ACM International Conference on Multimedia Asia (MMAsia'19). December 15--18, 2019, Beijing, China
 ```
