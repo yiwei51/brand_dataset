@@ -24,7 +24,7 @@ Followers posts are store in:
   - user_pointcard.csv
   - user_popular.csv
   
-  link to download followers posts():
+  link to download followers posts(https://drive.google.com/open?id=1y3Uokhm_xS5u0vNzZbCyWXb61c9f_m9K):
 
   format:
   brand_name, user_name, shortcode, tags
