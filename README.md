@@ -20,14 +20,13 @@ Brand information are store in:
 
 ## Followers
 Followers posts are store in:
-  - user_credircard.csv
-  - user_pointcard.csv
-  - user_popular.csv
-  
-  link to download followers posts(https://drive.google.com/open?id=1y3Uokhm_xS5u0vNzZbCyWXb61c9f_m9K):
+  - brandname.json
+
+  link to download followers posts(https://drive.google.com/open?id=1y3Uokhm_xS5u0vNzZbCyWXb61c9f_m9K)
 
   format:
-  brand_name, user_name, shortcode, tags
+  one user per line
+  {"username": username, "posts":{"shortcode":"tags"}}
   
   link to the post could be retrived by the shortcode:
   
@@ -37,7 +36,7 @@ Followers posts are store in:
   
   link to image: https://www.instagram.com/p/B3LoSw8pPgV/
   
-  tags are split by ',' tags are encoded by utf-8
+  tags are split by ',' tags are url encoded.
   
   
 ## Citation
